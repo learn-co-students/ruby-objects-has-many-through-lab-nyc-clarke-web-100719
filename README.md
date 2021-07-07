@@ -22,7 +22,7 @@ belong to a `Patient` and a `Doctor`. A `Doctor` has many `Appointment`s and a
 `Appointment`s and a `Patient` has many `Doctor`s through its `Appointment`s.
 
 ## Instructions
-
+a
 Start with the `Artist`/`Song`/`Genre` domain.
 
 **The `Artist` model:**
